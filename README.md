@@ -42,13 +42,13 @@ If you're curious about what I'm building or want to collaborate on AI tooling, 
 
 ### Vibecoding Setup
 
-I use **Cursor** for UI work and rapid iteration. I use **Claude Code** for the heavy lifting. When I need full control or want to keep costs down, I drop to **Warp**.
+`WaI use `Cursor` for UI work and rapid iteration. I use `Claude Code` for the heavy lifting. When I need full control or want to keep costs down, I drop to `Warp`.
 
 Most projects have AI in the loop somewhere—either scaffolding, refactoring, or benchmarking ideas.
 
 ### LLM Compute Scale
 
-[Tokens burned in the pursuit of agents]
+I've burned over 50 million tokens bringing these projects to life.
 
 
 
