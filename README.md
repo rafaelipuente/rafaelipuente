@@ -40,6 +40,18 @@ If you're curious about what I'm building or want to collaborate on AI tooling, 
 **`Infra & Tools`**  
 <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,githuu,linux" />
 
+### Vibecoding Setup
+
+I use **Cursor** for UI work and rapid iteration. I use **Claude Code** for the heavy lifting. When I need full control or want to keep costs down, I drop to **Warp**.
+
+Most projects have AI in the loop somewhere—either scaffolding, refactoring, or benchmarking ideas.
+
+### LLM Compute Scale
+
+[Tokens burned in the pursuit of agents]
+
+
+
 ---
 
 ## Dev Setup & Workflow
