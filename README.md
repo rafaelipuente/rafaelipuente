@@ -38,13 +38,13 @@ If you're curious about what I'm building or want to collaborate on AI tooling, 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,fastapi,pytorch" />
 
 **`Infra & Tools`**  
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,githuu,linux" />
 
 ---
 
 ## Dev Setup & Workflow
 
-I rotate between **Cursor**, **Claude**, and other AI‑assisted IDEs for rapid prototyping, then use VS Code when I need full control.  
+I rotate between **Cursor**, **Claude**, and other AI‑assisted IDEs for rapid prototyping, then use Warp when I need full control.  
 Most projects have AI somewhere in the loop – either for code generation, optimization research, or gluing services together.
 
 I like:
