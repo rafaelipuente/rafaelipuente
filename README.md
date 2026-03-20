@@ -42,7 +42,7 @@ If you're curious about what I'm building or want to collaborate on AI tooling, 
 
 ### Vibecoding Setup
 
-`WaI use `Cursor` for UI work and rapid iteration. I use `Claude Code` for the heavy lifting. When I need full control or want to keep costs down, I drop to `Warp`.
+I use `Cursor` for UI work and rapid iteration. I use `Claude Code` for the heavy lifting. When I need full control or want to keep costs down, I drop to `Warp`.`Warp`.
 
 Most projects have AI in the loop somewhere—either scaffolding, refactoring, or benchmarking ideas.
 
