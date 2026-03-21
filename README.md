@@ -9,8 +9,7 @@ Agent maxxing || Building tools that actually work.
 
 CS @ Portland State 2026 | Working on AI agents, compiler optimization, and real‑world automation.
 
-[Email](mailto:your_email@example.com) · [LinkedIn](https://www.linkedin.com/in/rafael-ipuente-93b28bb6) · [Website](https://www.fishbowl.wtf/)
-
+[Email](mailto:rafaelipuente@gmail.com) · [LinkedIn](https://www.linkedin.com/in/rafael-p-93b28bb6/) · [Website](https://www.fishbowl.wtf/)
 ---
 
 I'm a **computer science student** in Portland who likes turning ideas into shipped tools – from AI‑assisted coding workflows to systems that solve real problems.  
