@@ -42,14 +42,6 @@ If you're curious about what I'm building or want to collaborate on AI tooling, 
 
 
 
-### LLM Compute Scale
-
-I've burned over 50 million tokens bringing these projects to life.
-
-
-
----
-
 ## Dev Setup & Workflow
 
 I use **Cursor** for rapid UI iteration, **Claude Code** for heavier implementation work, and **Warp** when I want full control and lower cost.
