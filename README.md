@@ -39,11 +39,8 @@ If you're curious about what I'm building or want to collaborate on AI tooling, 
 **`Infra & Tools`**  
 <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,githuu,linux" />
 
-### Vibecoding Setup
 
-I use `Cursor` for UI work and rapid iteration. I use `Claude Code` for the heavy lifting. When I need full control or want to keep costs down, I drop to `Warp`.`Warp`.
 
-Most projects have AI in the loop somewhere—either scaffolding, refactoring, or benchmarking ideas.
 
 ### LLM Compute Scale
 
@@ -55,13 +52,11 @@ I've burned over 50 million tokens bringing these projects to life.
 
 ## Dev Setup & Workflow
 
-I rotate between **Cursor**, **Claude**, and other AI‑assisted IDEs for rapid prototyping, then use Warp when I need full control.  
-Most projects have AI somewhere in the loop – either for code generation, optimization research, or gluing services together.
+I use **Cursor** for rapid UI iteration, **Claude Code** for heavier implementation work, and **Warp** when I want full control and lower cost.
 
-I like:
-- Keeping infra simple and local when possible (scripts, docker‑compose)  
-- Using CLI tools and automation for everything  
-- Logging and monitoring so I can iterate fast
+AI is part of most of my projects somewhere—usually for scaffolding, refactoring, optimization research, or glue code.
+
+I prefer local-first infra, CLI tools, automation, and strong logging so I can iterate fast.
 
 ---
 
