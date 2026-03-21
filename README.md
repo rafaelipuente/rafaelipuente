@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0d1117,50:161b22,100:0d1117&height=160&section=header&text=Rafaaz&fontColor=ffffff&fontSize=40&animation=fadeIn" />
 </p>
 
-# Hi, I'm Rafaaz <img src="https://media.giphy.com/media/hvRJCLFzcasrg/giphy.gif" width="25px">
+# Hi, I'm Rafaaz 👋
 
 Agent maxxing || Building tools that actually work.
 
