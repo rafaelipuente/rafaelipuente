@@ -58,14 +58,3 @@ AI is part of most of my projects somewhere—usually for scaffolding, refactori
 
 I prefer local-first infra, CLI tools, automation, and strong logging so I can iterate fast.
 
----
-
-## What I'm building
-
-- 🧠 AI agents for productivity and automation  
-- ⚡ Next‑gen AI compiler with MLIR/LLVM IR support  
-- 📹 Real‑time video processing tools for IRL streaming  
-- 🏥 Healthcare data automation and medical records management  
-- 🧩 Puzzle solvers and algorithm optimization projects
-
-> Always down to chat about AI agents, compiler optimization, systems programming, or cool side‑projects – open an issue or DM me.
