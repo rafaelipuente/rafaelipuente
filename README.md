@@ -5,48 +5,52 @@
 
 # Hi, I'm Rafael Puente 👋
 
-Agent maxxing || Building tools that actually work.
+Building AI systems, automation tools, and software that solves real problems.
 
-CS @ Portland State 2026 | Working on AI agents, compiler optimization, and real‑world automation.
+CS @ Portland State University, graduating 2026.  
+Focused on AI agents, compiler systems, and practical automation.
 
 [Email](mailto:rafaelipuente@gmail.com) · [LinkedIn](https://www.linkedin.com/in/rafael-p-93b28bb6/) · [Website](https://www.fishbowl.wtf/)
+
 ---
 
-I'm a **computer science student** in Portland who likes turning ideas into shipped tools – from AI‑assisted coding workflows to systems that solve real problems.  
-Recently I've been deep in AI agent development, next‑gen compiler research (AuroraAICompiler), and building automation that makes life easier.
+I’m a computer science student based in Portland, building projects at the intersection of **AI, systems, and real-world tooling**.
 
-Background in applied statistics, systems programming, and building AI‑powered tools for productivity and coursework.  
-I care about clean code, performance optimization, and creating tools that people actually want to use.
+My work usually centers on:
+- **AI agents and automation** for practical workflows
+- **Compiler and systems projects** with MLIR / LLVM
+- **Full-stack tools** that prioritize usability, speed, and clear design
+- **Applied software** built to be useful, not just impressive on paper
 
-Right now I'm deep into:
-- Building AI agents for task automation and productivity workflows  
-- Next‑gen AI compiler optimization with MLIR/LLVM support  
-- Real‑time video processing and IRL streaming tools (AI_Blur_Tool)  
-- Healthcare data automation and medical records management
+I care about shipping, performance, and making technical ideas feel usable.
 
-If you're curious about what I'm building or want to collaborate on AI tooling, systems programming, or automation – feel free to reach out.
+Recently, I’ve been working on:
+- AI agent workflows for task automation and productivity
+- AuroraAICompiler and compiler optimization experiments
+- Real-time video and streaming-related tooling
+- Automation tools for structured data and document workflows
+
+If you're working on AI tooling, systems software, or automation, I’m always interested in strong ideas and serious projects.
 
 ---
 
 ## Stack
 
-**`Languages`**  
+**Languages**  
 <img src="https://skillicons.dev/icons?i=python,cpp,java,ts,js,bash" />
 
-**`Frameworks`**  
+**Frameworks & Libraries**  
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,fastapi,pytorch" />
 
-**`Infra & Tools`**  
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,githuu,linux" />
+**Infra & Tools**  
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,linux" />
 
+---
 
+## Workflow
 
+I use **Cursor** for fast iteration, **Claude Code** for deeper implementation work, and **Warp** when I want tighter terminal-driven control.
 
-## Dev Setup & Workflow
+AI is part of how I build, but not the product itself by default. I use it to move faster on scaffolding, refactoring, research, and debugging—then tighten the result into something solid.
 
-I use **Cursor** for rapid UI iteration, **Claude Code** for heavier implementation work, and **Warp** when I want full control and lower cost.
-
-AI is part of most of my projects somewhere—usually for scaffolding, refactoring, optimization research, or glue code.
-
-I prefer local-first infra, CLI tools, automation, and strong logging so I can iterate fast.
-
+I prefer local-first tools, CLI workflows, automation, and strong observability so I can build quickly without losing control.
