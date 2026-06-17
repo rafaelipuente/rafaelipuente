@@ -7,7 +7,7 @@
 
 Building AI systems, automation tools, and software that solves real problems.
 
-CS @ Portland State University, graduating 2026.  
+CS graduate @ Portland State University.  
 Focused on AI agents, compiler systems, and practical automation.
 
 [Email](mailto:rafaelipuente@gmail.com) · [LinkedIn](https://www.linkedin.com/in/rafael-p-93b28bb6/) · [Website](https://www.fishbowl.wtf/)
